@@ -186,7 +186,7 @@ function Navbar() {
             <Wrench className="w-5 h-5 text-zinc-950" strokeWidth={2.5} />
           </div>
           <span className="font-display font-bold text-lg sm:text-xl text-white tracking-wide">
-            Motoservicio David-Son
+            Moto Servicio Demo
           </span>
         </a>
 
@@ -274,7 +274,7 @@ function Hero() {
         </div>
 
         <h1 className="font-display font-bold text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-white uppercase leading-[0.95] mb-4 animate-fade-in-up delay-100">
-          Moto Servicio <span className="text-gradient-amber">David-Son</span>
+          Moto Servicio <span className="text-gradient-amber">Demo</span>
         </h1>
 
         <p className="text-xl sm:text-2xl text-zinc-300 font-medium mb-10 animate-fade-in-up delay-200">
@@ -666,14 +666,14 @@ function Footer() {
               <Wrench className="w-4 h-4 text-zinc-950" strokeWidth={2.5} />
             </div>
             <span className="font-display font-bold text-lg text-white tracking-wide">
-              Taller Moto Express
+             Moto Servicio Demo 
             </span>
           </div>
           <p className="text-zinc-400 text-sm">
             Servicio, confianza y experiencia para tu moto.
           </p>
           <p className="text-zinc-600 text-xs mt-2">
-            © 2026 Taller Moto Express. Estado de México.
+      © 2026 Moto Servicio Demo. Estado de México.
           </p>
         </div>
       </div>
